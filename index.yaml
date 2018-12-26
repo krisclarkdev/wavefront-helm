@@ -8,6 +8,6 @@ entries:
     digest: dabdcc551939d67358226a95a4cc81110c39c5a3c08bccc91b435ace60f7b98f
     name: wavefront-helm
     urls:
-    - https://krisclarkdev.github.io/wavefront-helm/wavefront-helm-0.1.0.tgz
+    - https://github.com/krisclarkdev/helm/raw/gh-pages/wavefront-helm-0.1.0.tgz
     version: 0.1.0
 generated: 2018-11-08T15:02:00.601052621-06:00
